@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Mechanical Engineering student building practical projects with React and Python, and exploring AI & Machine Learning.
+Hello there! I'm a passionate React developer and UX designer transforming ideas into clean, intuitive web apps. With an eye for detail and a creative mindset, I build intuitive interfaces. Currently, I'm diving into AI/ML to merge design and technology in exciting new ways.
 <br>
 
 
