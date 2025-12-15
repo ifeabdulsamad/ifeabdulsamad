@@ -1,5 +1,6 @@
 # 💫 About Me:
-i'm a creative web developer, visual designer and a digital creator<br>
+👋 Mechanical Engineering student building practical projects with React and Python, and exploring AI & Machine Learning.
+<br>
 
 
 # 💻 Tech Stack:
